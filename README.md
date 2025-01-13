@@ -9,7 +9,7 @@ Singleplayer:
 
  Immortal Switch: V
  
- OP Yourself: V
+ OP Yourself: X
  
  Get Gear: V 
  
